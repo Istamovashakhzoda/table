@@ -1,0 +1,24 @@
+p {
+
+  text-align: center;
+  color: blue;
+
+
+
+
+  opacity: o.5;
+}
+
+
+th,
+td {
+  border: 1px solid black;
+  padding: 5px 10px;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  text-align: left;
+}
